@@ -1,0 +1,20 @@
+{
+  "name": "projektdataengineering",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "scrape": "node scrape_overpass.js",
+    "process": "node process_overpass.js",
+    "index": "node index_elastic.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@elastic/elasticsearch": "^8.19.1",
+    "node-fetch": "^3.3.2",
+    "opening_hours": "^3.10.0"
+  }
+}

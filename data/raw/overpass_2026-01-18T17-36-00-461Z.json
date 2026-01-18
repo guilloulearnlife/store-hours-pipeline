@@ -1,0 +1,1083 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.61.8 b1080abd",
+  "osm3s": {
+    "timestamp_osm_base": "2026-01-06T16:09:29Z",
+    "timestamp_areas_base": "2026-01-06T16:09:29Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 30206157,
+      "lat": 49.633314,
+      "lon": 8.3597026,
+      "tags": {
+        "addr:city": "Worms",
+        "addr:country": "DE",
+        "addr:housenumber": "10",
+        "addr:postcode": "67547",
+        "addr:street": "Wilhelm-Leuschner-Straße",
+        "amenity": "pharmacy",
+        "check_date": "2025-03-11",
+        "healthcare": "pharmacy",
+        "name": "Carmeliter-Apotheke",
+        "opening_hours": "Mo-Fr 08:30-18:30; Sa 09:00-14:00",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30206162,
+      "lat": 49.6338092,
+      "lon": 8.358509,
+      "tags": {
+        "addr:city": "Worms",
+        "addr:country": "DE",
+        "addr:housenumber": "22",
+        "addr:postcode": "67547",
+        "addr:street": "Wilhelm-Leuschner-Straße",
+        "amenity": "pharmacy",
+        "check_date": "2025-03-11",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Schwanen-Apotheke",
+        "opening_hours": "Mo-Fr 08:30-18:30; Sa 09:00-13:00",
+        "payment:cash": "yes",
+        "website": "https://schwanenapothekeworms.de",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30206377,
+      "lat": 49.6308114,
+      "lon": 8.3617807,
+      "tags": {
+        "addr:city": "Worms",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "67547",
+        "addr:street": "Kämmererstraße",
+        "amenity": "pharmacy",
+        "check_date": "2025-03-02",
+        "healthcare": "pharmacy",
+        "level": "0",
+        "name": "farma-plus Apotheke",
+        "opening_hours": "Mo-Fr 08:30-18:30; Sa-Su 09:00-16:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30206637,
+      "lat": 49.6300324,
+      "lon": 8.3655739,
+      "tags": {
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Paulus Apotheke",
+        "opening_hours": "Mo-Fr 08:30-18:30; Sa 08:30-13:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 36743015,
+      "lat": 49.6405683,
+      "lon": 8.3638463,
+      "tags": {
+        "addr:city": "Worms",
+        "addr:country": "DE",
+        "addr:housenumber": "56",
+        "addr:postcode": "67547",
+        "addr:street": "Mainzer Straße",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Mohren-Apotheke",
+        "opening_hours": "Mo-Fr 08:30-18:00; Sa 08:30-12:30",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 291785929,
+      "lat": 49.6473229,
+      "lon": 8.3445823,
+      "tags": {
+        "addr:city": "Worms",
+        "addr:housenumber": "41a",
+        "addr:postcode": "67549",
+        "addr:street": "Theodor-Heuss-Straße",
+        "brand": "Mix Markt",
+        "brand:wikidata": "Q327854",
+        "brand:wikipedia": "de:Mix Markt",
+        "check_date": "2024-04-01",
+        "email": "mixmarkt13@monolith-gruppe.com",
+        "fax": "+49 6241 2088262",
+        "name": "Mix Markt",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "operator": "Juri Ermotschenko",
+        "phone": "+49 6241 2088144",
+        "shop": "supermarket",
+        "website": "https://www.mixmarkt.eu/de/germany/maerkte/13/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 292087406,
+      "lat": 49.6433506,
+      "lon": 8.3531164,
+      "tags": {
+        "amenity": "pharmacy",
+        "check_date:opening_hours": "2022-05-20",
+        "fax": "+49 6241 591088",
+        "healthcare": "pharmacy",
+        "name": "Neuhauser Apotheke",
+        "opening_hours": "Mo-Fr 08:30-18:30; Sa 08:30-12:30",
+        "phone": "+49 6241 54111",
+        "website": "https://www.neuhauser-apotheke-worms.de/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 339045417,
+      "lat": 49.6291686,
+      "lon": 8.3601436,
+      "tags": {
+        "addr:city": "Worms",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "67547",
+        "addr:street": "Neumarkt",
+        "amenity": "pharmacy",
+        "check_date": "2024-11-21",
+        "check_date:opening_hours": "2024-07-20",
+        "healthcare": "pharmacy",
+        "name": "Adler-Apotheke",
+        "opening_hours": "Mo-Fr 08:30-18:30; Sa 08:30-13:00",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 555176089,
+      "lat": 49.6254066,
+      "lon": 8.3595509,
+      "tags": {
+        "addr:city": "Worms",
+        "addr:country": "DE",
+        "addr:housenumber": "8",
+        "addr:postcode": "67547",
+        "addr:street": "Schönauer Straße",
+        "brand": "Aldi Süd",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "check_date": "2024-10-28",
+        "level": "0",
+        "name": "Aldi Süd",
+        "opening_hours": "08:00-20:00; Su,PH off",
+        "operator": "ALDI GmbH & Co. KG",
+        "shop": "supermarket",
+        "website": "https://filialen.aldi-sued.de/rheinland-pfalz/worms/schoenauer-strasse-8",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 555176108,
+      "lat": 49.625871,
+      "lon": 8.3600376,
+      "tags": {
+        "addr:city": "Worms",
+        "addr:country": "DE",
+        "addr:housenumber": "8",
+        "addr:postcode": "67547",
+        "addr:street": "Schönauer Straße",
+        "amenity": "pharmacy",
+        "check_date": "2023-12-26",
+        "healthcare": "pharmacy",
+        "name": "Apotheke im Wormser Einkaufs-Park",
+        "opening_hours": "Mo-Sa 09:00-20:00",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1253638235,
+      "lat": 49.6320743,
+      "lon": 8.3436496,
+      "tags": {
+        "amenity": "pharmacy",
+        "check_date": "2024-08-12",
+        "healthcare": "pharmacy",
+        "name": "Luther-Apotheke",
+        "opening_hours": "Mo-Fr 08:30-18:00; Sa 08:30-12:30",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1563614213,
+      "lat": 49.6262712,
+      "lon": 8.3626586,
+      "tags": {
+        "addr:city": "Worms",
+        "addr:housenumber": "16-18",
+        "addr:postcode": "67547",
+        "addr:street": "Schönauer Straße",
+        "brand": "Denns BioMarkt",
+        "brand:wikidata": "Q48883773",
+        "brand:wikipedia": "de:Denn’s Biomarkt",
+        "check_date": "2025-01-01",
+        "check_date:opening_hours": "2021-10-16",
+        "name": "Denns BioMarkt",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "operator": "Dennree GmbH",
+        "operator:wikidata": "Q1189641",
+        "organic": "only",
+        "shop": "supermarket",
+        "website": "https://www.biomarkt.de/worms-schoenauer-str-16-18/marktseite",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2201291450,
+      "lat": 49.6329697,
+      "lon": 8.3610315,
+      "tags": {
+        "amenity": "pharmacy",
+        "check_date": "2024-03-29",
+        "healthcare": "pharmacy",
+        "name": "Martin Apotheke",
+        "opening_hours": "Mo,Tu,Th,Fr 04:30-18:30; We 08:30-13:00; Sa 09:00-13:00",
+        "phone": "+49 6241 88622",
+        "website": "https://www.martinapo.de/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3355806011,
+      "lat": 49.6383418,
+      "lon": 8.3500128,
+      "tags": {
+        "amenity": "pharmacy",
+        "check_date": "2024-09-05",
+        "check_date:opening_hours": "2023-11-02",
+        "healthcare": "pharmacy",
+        "level": "0",
+        "name": "Apotheke Liebenauer Feld",
+        "opening_hours": "Mo-Fr 08:00-18:30, Sa 08:30-12:30",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3355846236,
+      "lat": 49.6320347,
+      "lon": 8.3469792,
+      "tags": {
+        "addr:city": "Worms",
+        "addr:country": "DE",
+        "addr:housenumber": "60",
+        "addr:postcode": "67549",
+        "addr:street": "Alzeyer Straße",
+        "amenity": "pharmacy",
+        "check_date": "2025-06-01",
+        "check_date:opening_hours": "2022-09-20",
+        "dispensing": "yes",
+        "email": "info@apowo.de",
+        "fax": "+49 6241 955398",
+        "healthcare": "pharmacy",
+        "name": "Apotheke am Wasserturm",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-13:00",
+        "operator": "Ute Kappes e. Kfr.",
+        "phone": "+49 6241 955353",
+        "website": "https://www.apowo.de",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3760787919,
+      "lat": 49.6355311,
+      "lon": 8.3469456,
+      "tags": {
+        "addr:city": "Worms",
+        "addr:housenumber": "8",
+        "addr:postcode": "67549",
+        "addr:street": "Bebelstraße",
+        "branch": "Rodriguez",
+        "brand": "REWE",
+        "brand:website": "https://www.rewe.de",
+        "brand:wikidata": "Q16968817",
+        "brand:wikipedia": "de:Rewe",
+        "check_date": "2025-03-31",
+        "check_date:diet:halal": "2024-12-27",
+        "diet:halal": "yes",
+        "internet_access": "wlan",
+        "name": "Rewe Rodriguez",
+        "opening_hours": "Mo-Sa 07:00-22:00; PH off",
+        "operator": "REWE Rodriguez oHG",
+        "shop": "supermarket",
+        "website": "https://rewe-rodriguez.de/rewe-in-worms",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3953178372,
+      "lat": 49.6329295,
+      "lon": 8.3306418,
+      "tags": {
+        "amenity": "pharmacy",
+        "check_date": "2023-12-10",
+        "name": "Linden-Apotheke",
+        "opening_hours": "Mo-Fr 08:30-12:30,14:00-18:30; Sa 08:30-13:00",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4069851509,
+      "lat": 49.6325702,
+      "lon": 8.3637805,
+      "tags": {
+        "addr:city": "Worms",
+        "addr:housenumber": "9",
+        "addr:postcode": "67547",
+        "addr:street": "Am Römischen Kaiser",
+        "amenity": "pharmacy",
+        "check_date": "2025-02-11",
+        "check_date:opening_hours": "2024-07-20",
+        "healthcare": "pharmacy",
+        "level": "0",
+        "name": "Apotheke in der Kaiserpassage",
+        "opening_hours": "Mo-Fr 08:30-20:00; Sa 09:00-20:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5477455103,
+      "lat": 49.6355689,
+      "lon": 8.3465843,
+      "tags": {
+        "addr:housenumber": "6",
+        "addr:street": "Bebelstraße",
+        "amenity": "pharmacy",
+        "check_date": "2025-03-31",
+        "check_date:opening_hours": "2024-12-27",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "internet_access": "no",
+        "name": "Doc Apotheke",
+        "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:30-13:30; PH off",
+        "operator": "Gerald Hanbuch e.K.",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7086369285,
+      "lat": 49.633927,
+      "lon": 8.3576579,
+      "tags": {
+        "addr:city": "Worms",
+        "addr:housenumber": "23",
+        "addr:street": "Wilhelm-Leuschner-Straße",
+        "brand": "Penny",
+        "brand:wikidata": "Q284688",
+        "brand:wikipedia": "en:Penny (supermarket)",
+        "check_date": "2025-09-16",
+        "check_date:diet:halal": "2024-12-27",
+        "diet:halal": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "level": "0",
+        "name": "PENNY",
+        "opening_hours": "Mo-Sa 07:30-21:30",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:girocard": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9254388262,
+      "lat": 49.6251909,
+      "lon": 8.35876,
+      "tags": {
+        "brand": "Kaufland",
+        "brand:wikidata": "Q685967",
+        "brand:wikipedia": "en:Kaufland",
+        "check_date": "2024-10-28",
+        "name": "Kaufland",
+        "opening_hours": "Mo-Sa 07:00-22:00",
+        "operator": "Kaufland Vertrieb DELTA GmbH & Co. KG",
+        "payment:cash": "yes",
+        "payment:girocard": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+49 6241 3248350",
+        "shop": "supermarket",
+        "website": "https://www.kaufland.de/service/filiale.storeName=DE6160.html",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10656093000,
+      "lat": 49.6349275,
+      "lon": 8.3651876,
+      "tags": {
+        "addr:city": "Worms",
+        "addr:housenumber": "9",
+        "addr:postcode": "67547",
+        "addr:street": "Remeyerhofstraße",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "name": "Lidl",
+        "opening_hours": "Mo-Sa 07:00-21:00; Su off; PH off",
+        "operator": "Lidl",
+        "organic": "yes",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:maestro": "yes",
+        "retreat": "yes",
+        "retreat:for": "children",
+        "retreat:operator": "Notinsel",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11299266199,
+      "lat": 49.6398614,
+      "lon": 8.3356215,
+      "tags": {
+        "addr:city": "Worms",
+        "addr:housenumber": "3",
+        "addr:postcode": "67549",
+        "addr:street": "Klingweg",
+        "brand": "Netto Marken-Discount",
+        "brand:wikidata": "Q879858",
+        "check_date": "2024-04-01",
+        "name": "Netto Marken-Discount",
+        "opening_hours": "Mo-Sa 07:00-21:00",
+        "shop": "supermarket",
+        "website": "https://www.netto-online.de/filialen/Worms/Klingweg-3/8161/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11438191431,
+      "lat": 49.6508362,
+      "lon": 8.3386639,
+      "tags": {
+        "addr:city": "Worms",
+        "addr:housenumber": "137",
+        "addr:postcode": "67550",
+        "addr:street": "Herrnsheimer Hauptstraße",
+        "addr:suburb": "Herrnsheim",
+        "amenity": "pharmacy",
+        "check_date": "2024-08-30",
+        "healthcare": "pharmacy",
+        "name": "Kiefer-Apotheke",
+        "opening_hours": "Mo-Fr 08:30-13:00,14:30-19:00; Sa 08:30-15:30",
+        "website": "https://www.kiefer-apotheke-worms.de",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 25100637,
+      "center": {
+        "lat": 49.6440573,
+        "lon": 8.3616181
+      },
+      "tags": {
+        "addr:city": "Worms",
+        "addr:country": "DE",
+        "addr:housenumber": "55",
+        "addr:postcode": "67547",
+        "addr:street": "Mainzer Straße",
+        "brand": "Netto Marken-Discount",
+        "brand:wikidata": "Q879858",
+        "brand:wikipedia": "de:Netto Marken-Discount",
+        "building": "retail",
+        "check_date": "2025-12-21",
+        "contact:website": "https://www.netto-online.de/filialen/Worms/Mainzer-Str-55/3832",
+        "covered": "yes",
+        "name": "Netto Marken-Discount",
+        "opening_hours": "Mo-Sa 07:00-21:00;PH off",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 25113183,
+      "center": {
+        "lat": 49.6560962,
+        "lon": 8.3596934
+      },
+      "tags": {
+        "addr:city": "Worms",
+        "addr:country": "DE",
+        "addr:housenumber": "150",
+        "addr:postcode": "67547",
+        "addr:street": "Mainzer Straße",
+        "brand": "Kaufland",
+        "brand:wikidata": "Q685967",
+        "brand:wikipedia": "en:Kaufland",
+        "building": "retail",
+        "building:levels": "1",
+        "check_date": "2024-12-28",
+        "check_date:diet:halal": "2024-12-28",
+        "diet:halal": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Kaufland",
+        "opening_hours": "Mo-Sa 06:00-22:00",
+        "shop": "supermarket",
+        "source": "extrapolation",
+        "toilets:wheelchair": "yes",
+        "website": "https://filiale.kaufland.de/service/filiale/worms-mainzer-str--4810.html",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 61558651,
+      "center": {
+        "lat": 49.6448134,
+        "lon": 8.3638369
+      },
+      "tags": {
+        "brand": "Aldi Süd",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "building": "retail",
+        "check_date": "2024-04-07",
+        "name": "Aldi Süd",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "operator": "Aldi Süd",
+        "shop": "supermarket",
+        "website": "https://filialen.aldi-sued.de/rheinland-pfalz/worms/petrus-dorn-strasse-30",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 86961545,
+      "center": {
+        "lat": 49.6426102,
+        "lon": 8.3554994
+      },
+      "tags": {
+        "addr:city": "Worms",
+        "addr:country": "DE",
+        "addr:housenumber": "86",
+        "addr:postcode": "67549",
+        "addr:street": "Gaustraße",
+        "brand": "Netto Marken-Discount",
+        "brand:wikidata": "Q879858",
+        "brand:wikipedia": "de:Netto Marken-Discount",
+        "building": "retail",
+        "building:levels": "1",
+        "currency:EUR": "yes",
+        "internet_access": "wlan",
+        "name": "Netto Marken-Discount",
+        "opening_hours": "Mo-Sa 07:00-22:00; PH off",
+        "organic": "yes",
+        "roof:shape": "flat",
+        "second_hand": "no",
+        "shop": "supermarket",
+        "stroller": "yes",
+        "website": "https://www.netto-online.de/filialen/Worms/Gaustr-86-88/3601/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 192635754,
+      "center": {
+        "lat": 49.6349116,
+        "lon": 8.2813781
+      },
+      "tags": {
+        "addr:city": "Worms",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "67551",
+        "addr:street": "Pfiffligheimer Straße",
+        "brand": "Edeka",
+        "brand:wikidata": "Q701755",
+        "brand:wikipedia": "en:Edeka",
+        "building": "yes",
+        "check_date": "2024-08-08",
+        "name": "Edeka",
+        "opening_hours": "Mo-Sa 08:00-21:00",
+        "phone": "+49 6247 9047926",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 198100268,
+      "center": {
+        "lat": 49.6066541,
+        "lon": 8.3339531
+      },
+      "tags": {
+        "addr:city": "Worms",
+        "addr:country": "DE",
+        "addr:housenumber": "118",
+        "addr:postcode": "67551",
+        "addr:street": "Weinsheimer Hauptstraße",
+        "brand": "PENNY",
+        "brand:wikidata": "Q284688",
+        "brand:wikipedia": "en:Penny (supermarket)",
+        "building": "commercial",
+        "building:levels": "1",
+        "check_date": "2024-11-18",
+        "name": "PENNY",
+        "opening_hours": "Mo-Sa 07:30-20:30",
+        "payment:american_express": "yes",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:girocard": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "shop": "supermarket",
+        "wheelchair": "yes",
+        "wikimedia_commons": "File:Penny Weinsheim 7.jpg"
+      }
+    },
+    {
+      "type": "way",
+      "id": 206354048,
+      "center": {
+        "lat": 49.6186434,
+        "lon": 8.3566371
+      },
+      "tags": {
+        "addr:city": "Worms",
+        "addr:housenumber": "40",
+        "addr:postcode": "67547",
+        "addr:street": "Klosterstraße",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "building": "retail",
+        "check_date": "2024-09-16",
+        "man_made": "surveillance",
+        "name": "Lidl",
+        "opening_hours": "Mo-Sa 07:00-21:00; Su off; PH off",
+        "operator": "Lidl",
+        "operator:wikidata": "Q151954",
+        "organic": "yes",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:maestro": "yes",
+        "retreat": "yes",
+        "retreat:for": "children",
+        "retreat:operator": "Notinsel",
+        "shop": "supermarket",
+        "surveillance": "indoor",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 206376593,
+      "center": {
+        "lat": 49.6223732,
+        "lon": 8.3596215
+      },
+      "tags": {
+        "addr:city": "Worms",
+        "addr:country": "DE",
+        "addr:housenumber": "22b",
+        "addr:postcode": "67547",
+        "addr:street": "Klosterstraße",
+        "brand": "Netto Marken-Discount",
+        "brand:wikidata": "Q879858",
+        "brand:wikipedia": "de:Netto Marken-Discount",
+        "building": "commercial",
+        "check_date": "2024-12-08",
+        "name": "Netto Marken-Discount",
+        "opening_hours": "Mo-Sa 07:00-21:00",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "shop": "supermarket",
+        "website": "https://www.netto-online.de/filialen/worms/klosterstr-22-b/3827",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 206727948,
+      "center": {
+        "lat": 49.626574,
+        "lon": 8.3486189
+      },
+      "tags": {
+        "addr:city": "Worms",
+        "addr:housenumber": "60",
+        "addr:postcode": "67547",
+        "addr:street": "Am Wolfsgraben",
+        "brand": "ALDI Süd",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "building": "supermarket",
+        "check_date": "2024-09-18",
+        "name": "ALDI Süd",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "operator": "ALDI GmbH & Co. KG",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:girocard": "yes",
+        "roof:shape": "pyramidal;flat",
+        "shop": "supermarket",
+        "website": "https://filialen.aldi-sued.de/rheinland-pfalz/worms/am-wolfsgraben-60",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 208609020,
+      "center": {
+        "lat": 49.6318708,
+        "lon": 8.3699716
+      },
+      "tags": {
+        "addr:city": "Worms",
+        "addr:housenumber": "31",
+        "addr:postcode": "67547",
+        "addr:street": "Rheinstraße",
+        "brand": "Penny",
+        "brand:wikidata": "Q284688",
+        "brand:wikipedia": "en:Penny (supermarket)",
+        "building": "retail",
+        "building:levels": "1",
+        "check_date:opening_hours": "2021-08-12",
+        "name": "PENNY",
+        "opening_hours": "Mo-Sa 07:00-22:00; PH off",
+        "organic": "yes",
+        "roof:levels": "1",
+        "roof:shape": "gabled",
+        "second_hand": "no",
+        "shop": "supermarket",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 262172787,
+      "center": {
+        "lat": 49.63301,
+        "lon": 8.3233688
+      },
+      "tags": {
+        "addr:city": "Worms",
+        "addr:country": "DE",
+        "addr:housenumber": "242-244",
+        "addr:postcode": "67549",
+        "addr:street": "Alzeyer Straße",
+        "building": "retail",
+        "building:levels": "1",
+        "check_date": "2023-12-10",
+        "check_date:opening_hours": "2023-06-12",
+        "internet_access": "no",
+        "level": "0",
+        "name": "EDEKA Sauer",
+        "opening_hours": "Mo-Sa 08:00-21:00",
+        "operator": "Bernd Sauer",
+        "payment:cash": "yes",
+        "payment:girocard": "yes",
+        "phone": "+49 6241 975490",
+        "shop": "supermarket",
+        "stroller": "yes",
+        "toilets:wheelchair": "no",
+        "website": "https://www.edeka.de/eh/s%C3%BCdwest/e-aktiv-markt-sauer-alzeyer-stra%C3%9Fe-242-244/index.jsp",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 262350366,
+      "center": {
+        "lat": 49.6493715,
+        "lon": 8.3387315
+      },
+      "tags": {
+        "addr:city": "Worms",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "67550",
+        "addr:street": "Dr.-Carl-Sonnenschein-Straße",
+        "addr:suburb": "Herrnsheim",
+        "brand": "Rewe",
+        "brand:wikidata": "Q16968817",
+        "brand:wikipedia": "en:REWE",
+        "building": "yes",
+        "check_date": "2024-12-12",
+        "contact:phone": "+49 6241 2001886",
+        "name": "Rewe",
+        "opening_hours": "Mo-Sa 07:00-22:00",
+        "ref": "0275",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 262350377,
+      "center": {
+        "lat": 49.6494886,
+        "lon": 8.339854
+      },
+      "tags": {
+        "addr:city": "Worms",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "67550",
+        "addr:street": "Dr.-Carl-Sonnenschein-Straße",
+        "addr:suburb": "Herrnsheim",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "building": "retail",
+        "check_date": "2024-12-12",
+        "name": "Lidl",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su off; PH off",
+        "operator": "Lidl",
+        "organic": "yes",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:maestro": "yes",
+        "retreat": "yes",
+        "retreat:for": "children",
+        "retreat:operator": "Notinsel",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 263458961,
+      "center": {
+        "lat": 49.613669,
+        "lon": 8.3294804
+      },
+      "tags": {
+        "addr:city": "Worms",
+        "addr:country": "DE",
+        "addr:housenumber": "92",
+        "addr:postcode": "67551",
+        "addr:street": "Kolpingstraße",
+        "addr:suburb": "Horchheim",
+        "brand": "Netto Marken-Discount",
+        "brand:wikidata": "Q879858",
+        "brand:wikipedia": "de:Netto Marken-Discount",
+        "building": "retail",
+        "building:levels": "1",
+        "check_date": "2025-12-31",
+        "check_date:opening_hours": "2024-08-28",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "man_made": "surveillance",
+        "name": "Netto Marken-Discount",
+        "opening_hours": "Mo-Sa 07:00-21:00",
+        "operator": "Netto Marken-Discount AG & Co. KG",
+        "payment:american_express": "yes",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "roof:levels": "0",
+        "roof:shape": "mansard",
+        "shop": "supermarket",
+        "surveillance": "indoor",
+        "website": "https://www.netto-online.de/filialen/Worms/Kolpingstr-92/3532/",
+        "wheelchair": "yes",
+        "wikimedia_commons": "File:Netto Horchheim.jpg"
+      }
+    },
+    {
+      "type": "way",
+      "id": 263458970,
+      "center": {
+        "lat": 49.6141482,
+        "lon": 8.3293911
+      },
+      "tags": {
+        "addr:city": "Worms",
+        "addr:country": "DE",
+        "addr:housenumber": "90",
+        "addr:postcode": "67551",
+        "addr:street": "Kolpingstraße",
+        "addr:suburb": "Horchheim",
+        "brand": "REWE",
+        "brand:wikidata": "Q16968817",
+        "brand:wikipedia": "de:Rewe",
+        "building": "retail",
+        "building:levels": "1",
+        "check_date": "2025-12-31",
+        "check_date:opening_hours": "2024-08-28",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "man_made": "surveillance",
+        "name": "REWE",
+        "opening_hours": "Mo-Sa 07:00-22:00",
+        "operator": "REWE Markt GmbH",
+        "payment:american_express": "yes",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:girocard": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "phone": "+49 6241 9773022",
+        "roof:shape": "gabled",
+        "shop": "supermarket",
+        "surveillance": "indoor",
+        "website": "https://www.rewe.de/marktseite/rewe-markt-worms-horchheim-kolpingstra%C3%9Fe-90/",
+        "wheelchair": "yes",
+        "wikimedia_commons": "File:Rewe Horchheim.jpg"
+      }
+    },
+    {
+      "type": "way",
+      "id": 263610960,
+      "center": {
+        "lat": 49.6085296,
+        "lon": 8.2750692
+      },
+      "tags": {
+        "addr:city": "Worms",
+        "addr:housenumber": "1",
+        "addr:postcode": "67551",
+        "addr:street": "Im Gehrchen",
+        "addr:suburb": "Heppenheim",
+        "brand": "Netto Marken-Discount",
+        "brand:wikidata": "Q879858",
+        "brand:wikipedia": "de:Netto Marken-Discount",
+        "building": "yes",
+        "check_date": "2024-12-31",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Netto Marken-Discount",
+        "opening_hours": "Mo-Sa 07:00-21:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "supermarket",
+        "website": "https://www.netto-online.de/filialen/Worms-Heppenheim/Im-Gehrchen-1/3887/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 410780489,
+      "center": {
+        "lat": 49.610686,
+        "lon": 8.3218534
+      },
+      "tags": {
+        "addr:city": "Worms",
+        "addr:country": "DE",
+        "addr:housenumber": "59",
+        "addr:postcode": "67551",
+        "addr:street": "Untere Hauptstraße",
+        "addr:suburb": "Horchheim",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "check_date": "2024-09-03",
+        "dispensing": "yes",
+        "email": "info@elisabethapotheke-worms.de",
+        "fax": "+49 6241 930390",
+        "healthcare": "pharmacy",
+        "name": "Elisabeth-Apotheke",
+        "opening_hours": "Mo-Tu,Th-Fr 08:15-12:30,14:30-18:00; We 08:15-12:30; Sa 08:15-12:00",
+        "operator": "Apothekerin Ute Vock e.K.",
+        "phone": "+49 6241 93030",
+        "website": "https://www.elisabethapotheke-worms.de/",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1011045359,
+      "center": {
+        "lat": 49.6336836,
+        "lon": 8.2890068
+      },
+      "tags": {
+        "addr:city": "Worms",
+        "addr:country": "DE",
+        "addr:housenumber": "15",
+        "addr:postcode": "67551",
+        "addr:street": "Küferstraße",
+        "brand": "Netto Marken-Discount",
+        "brand:wikidata": "Q879858",
+        "brand:wikipedia": "de:Netto Marken-Discount",
+        "building": "yes",
+        "name": "Netto Marken-Discount",
+        "opening_hours": "Mo-Sa 07:00-21:00",
+        "shop": "supermarket",
+        "website": "https://www.netto-online.de/filialen/Worms/Kueferstr-15/3576/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1371914196,
+      "center": {
+        "lat": 49.6187051,
+        "lon": 8.3600404
+      },
+      "tags": {
+        "addr:city": "Worms",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:postcode": "67547",
+        "addr:street": "Mittelochsenplatz",
+        "brand": "Edeka",
+        "brand:wikidata": "Q701755",
+        "building": "yes",
+        "check_date": "2025-03-26",
+        "check_date:opening_hours": "2025-03-26",
+        "contact:website": "https://www.edeka-jakobi.de/worms",
+        "name": "E-Center Jakobi",
+        "opening_hours": "Mo-Sa 07:00-21:00",
+        "operator": "Jakobi Lebensmittel GmbH & Co. KG",
+        "shop": "supermarket",
+        "start_date": "2025-03-27",
+        "toilets": "yes"
+      }
+    }
+  ],
+  "scrape_timestamp": "2026-01-18T17:36:00.461Z"
+}
