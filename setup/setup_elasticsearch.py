@@ -17,6 +17,8 @@ import json
 # Konfiguration
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
+if os.path.basename(BASE_DIR) == "setup":
+    BASE_DIR = os.path.dirname(BASE_DIR)
 # On définit les dossiers par rapport à BASE_DIR
 AIRFLOW_DIR = os.path.join(BASE_DIR, "airflow-docker")
 PROJECT_DIR = BASE_DIR
