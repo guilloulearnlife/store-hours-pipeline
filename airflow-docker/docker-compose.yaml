@@ -317,9 +317,6 @@ services:
       elasticsearch:
         condition: service_healthy
 
-volumes:
-  postgres-db-volume:
-  es-data:
     # yamllint enable rule:line-length
     environment:
       <<: *airflow-common-env
