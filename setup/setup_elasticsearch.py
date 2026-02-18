@@ -15,8 +15,11 @@ import requests
 import json
 
 # Konfiguration
-AIRFLOW_DIR = os.path.expanduser("~/airflow-docker")
-PROJECT_DIR = os.path.expanduser("~/store-hours-pipeline")
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+# On définit les dossiers par rapport à BASE_DIR
+AIRFLOW_DIR = os.path.join(BASE_DIR, "airflow-docker")
+PROJECT_DIR = BASE_DIR
 ES_HOST = "http://localhost:9200"
 
 class Colors:
