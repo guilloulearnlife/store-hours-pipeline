@@ -16,7 +16,7 @@ import json
 
 # Konfiguration
 AIRFLOW_DIR = os.path.expanduser("~/airflow-docker")
-PROJECT_DIR = os.path.expanduser("~/projektDataEngineering/store-hours-pipeline")
+PROJECT_DIR = os.path.expanduser("~/store-hours-pipeline")
 ES_HOST = "http://localhost:9200"
 
 class Colors:
