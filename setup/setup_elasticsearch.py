@@ -83,22 +83,19 @@ def step_1_docker_setup():
     return True
 
 def step_2_wait_elasticsearch():
-    """Schritt 2: Auf Elasticsearch warten."""
-    log_step(2, 5, "Waiting for Elasticsearch...")
-    
-    for i in range(30):
+    log_step(3, 6, "Waiting for Elasticsearch...")
+    # On passe à 60 tentatives (3 minutes) pour être large
+    for i in range(60): 
         try:
             resp = requests.get(ES_HOST, timeout=2)
             if resp.status_code == 200:
                 log_success("Elasticsearch is ready")
                 return True
-        except requests.exceptions.ConnectionError:
+        except:
             pass
-        
-        log_info(f"Waiting... ({i+1}/30)")
-        time.sleep(2)
-    
-    log_error("Elasticsearch not reachable")
+        # Animation plus propre pour ne pas polluer le terminal
+        print(f"  ℹ Waiting... ({i+1}/60) - Vérifiez Docker Desktop si ça dure trop longtemps", end="\r")
+        time.sleep(3)
     return False
 
 def step_3_elasticsearch_config():
