@@ -25,7 +25,7 @@ done
 
 # 2. Elasticsearch konfigurieren
 echo "[2/4] Configuring Elasticsearch (ILM, Template)..."
-python3 ~/projektDataEngineering/store-hours-pipeline/setup/setup_elasticsearch.py
+python3 ../setup/setup_elasticsearch.py
 
 # 3. Airflow initialisieren
 echo "[3/4] Initializing Airflow..."
