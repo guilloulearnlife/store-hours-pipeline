@@ -7,4 +7,4 @@ End-to-End Data Engineering Pipeline für Öffnungszeiten von Geschäften.
 ### 1. Alles automatisch aufsetzen
 
 ```bash
-./setup/setup.sh
+/store-hours-pipeline/setup.sh
