@@ -94,7 +94,7 @@ def step_2_wait_elasticsearch():
         except:
             pass
         # Animation plus propre pour ne pas polluer le terminal
-        print(f"  ℹ Waiting... ({i+1}/60) - Vérifiez Docker Desktop si ça dure trop longtemps", end="\r")
+        print(f"  ℹ Waiting... ({i+1}/60) - loading....", end="\r")
         time.sleep(3)
     return False
 
