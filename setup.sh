@@ -7,7 +7,7 @@ echo "=========================================="
 
 # 1. Aller dans le dossier Airflow (qui est maintenant juste à côté)
 echo "[1/4] Starting Docker containers..."
-cd ./store-hours-pipeline/airflow-docker
+cd ./airflow-docker
 docker compose down 2>/dev/null || true
 docker compose build
 docker compose up -d
